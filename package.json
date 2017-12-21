@@ -1,0 +1,28 @@
+{
+  "name": "strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissabell456/single-page-applications_SP_JS_ARRAYS_STRING_MANIPULATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissabell456/single-page-applications_SP_JS_ARRAYS_STRING_MANIPULATION/issues"
+  },
+  "homepage": "https://github.com/melissabell456/single-page-applications_SP_JS_ARRAYS_STRING_MANIPULATION#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "matchdep": "^2.0.0"
+  }
+}
